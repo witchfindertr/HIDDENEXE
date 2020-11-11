@@ -1,0 +1,11 @@
+C:\Users\FROST\source\repos\HIDEEXE\HIDEEXE\obj\Debug\HIDEEXE.Form1.resources
+C:\Users\FROST\source\repos\HIDEEXE\HIDEEXE\obj\Debug\HIDEEXE.Resources.resources
+C:\Users\FROST\source\repos\HIDEEXE\HIDEEXE\obj\Debug\HIDEEXE.vbproj.GenerateResource.cache
+C:\Users\FROST\source\repos\HIDEEXE\HIDEEXE\obj\Debug\HIDEEXE.vbproj.CoreCompileInputs.cache
+C:\Users\FROST\source\repos\HIDEEXE\HIDEEXE\bin\Debug\HIDDENEXE.exe.config
+C:\Users\FROST\source\repos\HIDEEXE\HIDEEXE\bin\Debug\HIDDENEXE.exe
+C:\Users\FROST\source\repos\HIDEEXE\HIDEEXE\bin\Debug\HIDDENEXE.pdb
+C:\Users\FROST\source\repos\HIDEEXE\HIDEEXE\bin\Debug\HIDDENEXE.xml
+C:\Users\FROST\source\repos\HIDEEXE\HIDEEXE\obj\Debug\HIDDENEXE.exe
+C:\Users\FROST\source\repos\HIDEEXE\HIDEEXE\obj\Debug\HIDDENEXE.xml
+C:\Users\FROST\source\repos\HIDEEXE\HIDEEXE\obj\Debug\HIDDENEXE.pdb
