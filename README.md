@@ -2,7 +2,7 @@
 
 This tool will help you to hide your EXE payload or software. it's very simple to use.
 
-<img src="/Screenshots/Start.png" width=400 align="center">
+<img src="Screenshot/Start.png" width=400 align="center">
 
 ### ❗ What is this ?
 
